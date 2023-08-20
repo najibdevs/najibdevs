@@ -1,4 +1,4 @@
-![MASTERHEAD](./IMG-1970.JPG)
+![Banner Image](./IMG-1970%20(1).jpg)
 <h2 align="left">Hi, I'm Najib</h2>
 <h3 align="left">A passionate software developer from London</h3>
 
