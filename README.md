@@ -1,4 +1,4 @@
-![Banner Image](./IMG-1970%20(1).jpg)
+![Banner Image](./banner.jpg)
 
 <h2 align="left">Hi, I'm Najib 👋🏾</h2>
 <h3 align="left">A passionate software developer from London 📍🇬🇧</h3>
