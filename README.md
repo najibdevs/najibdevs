@@ -5,7 +5,7 @@
 
 <h4 align="left">About me:</h4>
 <p align="left">
-I'm a 20-year-old software engineer diving into the world of front-end development. Computers have fascinated me since childhood, and now, I'm turning that fascination into innovation.
+I'm a 21-year-old software engineer diving into the world of front-end development. Computers have fascinated me since childhood, and now, I'm turning that fascination into innovation.
 </p>
 
 - 🔭 I’m currently working on **front-end development**
