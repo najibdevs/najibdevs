@@ -9,7 +9,7 @@ I'm a 21-year-old software engineer diving into the world of front-end developme
 </p>
 
 - 🔭 I’m currently working on **front-end development**
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **HTML, CSS & JS**
 - 📫 How to reach me:<br>
  **Instagram:** <a href="https://instagram.com/najibdevs" target="_blank">najibdevs</a><br>
  **LinkedIn:** <a href="https://www.linkedin.com/in/najibdevs/" target="_blank">najibdevs</a> 
